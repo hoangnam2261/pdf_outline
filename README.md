@@ -1,7 +1,7 @@
 # pdf_outline
 Get outline from pdf when there is no outline information in pdf file's metadata
 
-#Background
+# Background
 - We can get the pdf file's outline by using pdfminer in the below way. But that's in case pdf file's metadata contains outline information.
 
 ```python
